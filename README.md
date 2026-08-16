@@ -1,5 +1,5 @@
-# Monet-Profile-3.3.5
-Import codes for my UI
+# Monet-Profile-wow-3.3.5
+Import codes for my UI.
 
 Addons:
 
