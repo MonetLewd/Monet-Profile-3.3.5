@@ -3,7 +3,7 @@ Import codes for my UI
 
 Addons = 
 
-Elvui
-WeakAuras
-Details! 
+Elvui -
+WeakAuras -
+Details! -
 DBM Warmane
