@@ -496,11 +496,12 @@
                     ["size"] = 15,
                 },
                 ["castbar"] = {
-                    ["enable"] = false,
-                    ["width"] = 270,
+                    ["latency"] = false,
+                    ["width"] = 150,
                 },
                 ["health"] = {
                     ["frequentUpdates"] = true,
+                    ["text_format"] = "[health:percent]",
                 },
                 ["healPrediction"] = {
                     ["anchorPoint"] = "BOTTOM",
@@ -517,7 +518,8 @@
                 },
                 ["height"] = 35,
                 ["name"] = {
-                    ["text_format"] = "[name:medium]",
+                    ["text_format"] = "[name:short]",
+                    ["position"] = "LEFT",
                 },
             },
             ["player"] = {
